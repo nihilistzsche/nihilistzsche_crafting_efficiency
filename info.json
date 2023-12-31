@@ -1,0 +1,13 @@
+{
+  "name": "nihilistzsche_crafting_efficiency",
+  "version": "0.0.1",
+
+  "title": "nihilistzsche_crafting_efficiency",
+  "description": "Crafting efficiency core used by my other mods.",
+
+  "author": "nihilistzsche",
+  "license": "GPL3",
+
+  "dependencies": ["base >= 1.1.6", "crafting-efficiency-2", "rusty-locale"],
+  "factorio_version": "1.1"
+}
